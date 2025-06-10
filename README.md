@@ -10,12 +10,6 @@ My background in science opened the door to learning and loving programming.
 
 I transitioned to software development to build tools I once wished existed. I love combining data, logic, and design to create user-centered apps.
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=matdelp&theme=dark)](https://git.io/streak-stats)
-
----
-
 ### Tech Stack
 
 **Languages:**  
