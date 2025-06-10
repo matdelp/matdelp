@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 [![Follow](https://img.shields.io/github/followers/matdelp?label=Follow&style=social)](https://github.com/matdelp?tab=followers) ![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatdelp) ![Profile Views](https://komarev.com/ghpvc/?username=matdelp&label=Profile%20Views&color=blue) ![Last Commit](https://img.shields.io/github/last-commit/matdelp/matdelp?label=Last%20Update)
+## [![Follow](https://img.shields.io/github/followers/matdelp?label=Follow&style=social)](https://github.com/matdelp?tab=followers) ![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatdelp) ![Profile Views](https://komarev.com/ghpvc/?username=matdelp&label=Profile%20Views&color=blue) ![Last Commit](https://img.shields.io/github/last-commit/matdelp/matdelp?label=Last%20Update)
 
 My background in science opened the door to learning and loving programming.
 
