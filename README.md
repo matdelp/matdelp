@@ -2,12 +2,12 @@
 
 **Full-Stack Web Developer**
 
-> My background in science opened the door to learning and loving programming
-
 ---
 ## 📊 [![Follow](https://img.shields.io/github/followers/matdelp?label=Follow&style=social)](https://github.com/matdelp?tab=followers) ![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmatdelp) ![Profile Views](https://komarev.com/ghpvc/?username=matdelp&label=Profile%20Views&color=blue) ![Last Commit](https://img.shields.io/github/last-commit/matdelp/matdelp?label=Last%20Update)
 
-Previously in biotechnology working with science data, I transitioned to software development to build tools I once wished existed. I love combining data, logic, and design to create user-centered apps.
+My background in science opened the door to learning and loving programming.
+
+I transitioned to software development to build tools I once wished existed. I love combining data, logic, and design to create user-centered apps.
 
 ---
 
