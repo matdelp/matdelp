@@ -1,4 +1,4 @@
-# Hello, I'm Mathilde Delpeuch
+# Mathilde Delpeuch
 
 Full-Stack Web Developer
 
