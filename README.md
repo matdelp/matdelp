@@ -25,16 +25,14 @@ Full-Stack Web Developer
 ### Projects
 
 - [PrimDesign](https://github.com/matdelp/primer-designer)
+
   – A tool for designing biological primers with automated QC and API integration.
+
   https://primdesign.azurewebsites.net/
+
 - [Digital Playbook for FCSP Rugby](https://[github.com/Wushen42/fcsp-rugby)
+
   – Interactive interface where players can review team tactics, access strategic resources, and log personal health and performance metrics to support their game preparation.
-
----
-
-### GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=matdelp&show_icons=true&theme=radical)
 
 ---
 
