@@ -50,6 +50,6 @@ Previously working in biotechnology working with science data, I transitioned to
 
 ---
 
-### 📫 Let’s Connect!
+### Happy to connect :
 
 [LinkedIn](https://www.linkedin.com/in/mathilde-delpeuch/) | [Email](mailto:mathilde.delpeuch@gmail.com)
