@@ -19,7 +19,7 @@ I transitioned to software development to build tools I once wished existed. I l
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-06B6D4?logo=tailwindcss&logoColor=black)
 
 **Backend & Tools:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) ![DBeaver](https://img.shields.io/badge/-DBeaver-4B6A85?style=flat&logo=dbeaver&logoColor=fff) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff) ![DBeaver](https://img.shields.io/badge/-DBeaver-4B6A85?style=flat&logo=dbeaver&logoColor=fff) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ---
 
